@@ -6,9 +6,14 @@ Making this repo to make a speech recognition and then noise cancellation progra
 2. pyaudio
 3. matplotlib
 4. numpy
+5. pydub
 
 ## Speech input 
-Input of speech using pyaudio and wave python modules
+Input of speech using pyaudio and wave python modules. 
+Using pydub we can convert the wav file to mp3 and add various tweeks to it like 
+1. increasing volume in dB
+2. repeating audio
+3. adding fade in and fade out ...
 
 ## analysis of input speech
 Using the input to graph it frames vs time
