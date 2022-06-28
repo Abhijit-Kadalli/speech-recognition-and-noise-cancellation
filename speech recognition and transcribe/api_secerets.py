@@ -1,1 +1,1 @@
-API_KEY_ASSEMBLYAI = "778cdb0e31734e64bbd096a828a99143"
+API_KEY_ASSEMBLYAI = "enter you assembly ai key"
